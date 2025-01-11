@@ -1,6 +1,6 @@
-# 🛒 **E-Commerce Platform with .NET 8 & React** 🚀✨
+# 🛒 **E-Commerce Platform with .NET 8, React & Redux** 🚀✨
 
-This document provides an overview of our modern, full-featured **e-commerce application** built using **.NET 8** for the backend and **React** for the frontend. It delivers a seamless shopping experience with **real-time updates**, **responsive design**, and **secure payment integration**. 💻📱
+This document provides an overview of our modern, full-featured **e-commerce application** built using **.NET 8** for the backend, **React** for the frontend, and **Redux** for state management. It delivers a seamless shopping experience with **real-time updates**, **responsive design**, and **secure payment integration**. 💻📱
 
 ---
 
@@ -8,6 +8,7 @@ This document provides an overview of our modern, full-featured **e-commerce app
 
 - ⚙️ **Backend:** ASP.NET Core 8
 - 🌐 **Frontend:** React
+- 📦 **State Management:** Redux (with Redux Toolkit for streamlined setup)
 - 🔄 **Real-time Communication:** SignalR
 - 🌟 **Styling:** Tailwind CSS
 - 💳 **Payment Integration:** Stripe API
@@ -20,6 +21,7 @@ This document provides an overview of our modern, full-featured **e-commerce app
 
 - 🛕️ **Product Management:** Browse, search, and filter products effortlessly.
 - 🔄 **Real-time Updates:** Instant updates on orders and notifications via SignalR.
+- 📦 **State Management:** Efficient global state handling with Redux for a predictable and scalable app architecture.
 - 💳 **Secure Payments:** Stripe integration for seamless and secure transactions. Refunds and coupon codes included.
 - 🔒 **Authentication & Authorization:** Secure user authentication and role-based access.
 - 📊 **Order Tracking:** Admin dashboard for a real-time inventory system.
